@@ -41,6 +41,8 @@ by `ImageNet <http://www.image-net.org/>`__.  Besides, it also supports YOLO and
      :alt: Demo Image
 
 `Watch a demo video <https://youtu.be/p0nR2YsCY_U>`__
+# 
+`Watch a demo video <https://youtu.be/fjynQ9P2C08?si=78txVGTBMaIF_wL->`__
 
 Installation
 ------------------
